@@ -125,6 +125,7 @@ Lastly
 - Open a pull request through the contribute option on your github UI 
 
 - After the team lead has merged your pull request (You will get a notification)
+
 - Click on fetch upstream to sync your forked repository with the parent repo
 ```
 
