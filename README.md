@@ -67,6 +67,9 @@ npm start
 ## About the Project Structure
 ### The project has been implemented using the following structure;
 #### The directories include;
+- ### productDesign
+#### `NOTE` : *All product designs be done in this folder* (productDesign)
+#### `NOTE` : *figma links to be added on `readme` files as well* 
 - ### public
     - css
     - img
@@ -110,8 +113,6 @@ npm start
 
 - git commit -m "What you did"
 
-- git fetch origin upstream
-
 - git pull
 
 - git push <branchname>
@@ -121,6 +122,10 @@ npm start
 Lastly
 
 ```
-submit a pull request
+- Open a pull request through the contribute option on your github UI 
+
+- After the team lead has merged your pull request (You will get a notification)
+
+- Click on fetch upstream to sync your forked repository with the parent repo
 ```
 
