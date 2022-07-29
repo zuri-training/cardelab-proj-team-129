@@ -1,0 +1,1 @@
+this public folder is for all front end activities
