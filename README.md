@@ -67,6 +67,9 @@ npm start
 ## About the Project Structure
 ### The project has been implemented using the following structure;
 #### The directories include;
+- ### productDesign
+#### `NOTE` : *All product designs be done in this folder* (productDesign)
+#### `NOTE` : *figma links to be added on `readme` files as well* 
 - ### public
     - css
     - img
@@ -121,6 +124,6 @@ npm start
 Lastly
 
 ```
-submit a pull request
+Open a pull request through the contribute option on your github UI
 ```
 
