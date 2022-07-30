@@ -129,3 +129,14 @@ Lastly
 - Click on fetch upstream to sync your forked repository with the parent repo
 ```
 
+# LINKS TO THE PROCJECT DOCUMENTATION
+## PRODUCT LINK
+Here we have [Design Link](https://www.figma.com/file/zwBCLs0RV7mDKZ05CQxpNP?node-id=0%3A1&fuid=941363395730471374#237800822)<br />
+Here we have [Figma Link](https://www.figma.com/file/i7wERMHfbkTSOv3maOX29t/Project_129?node-id=0%3A1)<br />
+Here we have [Documentation](https://documenter.getpostman.com/view/17155688/Uzds4Uet)
+
+## FRONTEND LINK
+Here we have [Frontend Doc](https://docs.google.com/document/d/1onVp-PqoN5dYfq5IydqCl1B4UAw5H0ibyDr7Zle9kME/edit?usp=gmail)
+
+## BACKEND LINK
+Here we have [Backend doc](https://documenter.getpostman.com/view/17155688/Uzds4Uet)
