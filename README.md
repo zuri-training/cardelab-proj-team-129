@@ -139,4 +139,6 @@ Here we have [Documentation](https://documenter.getpostman.com/view/17155688/Uzd
 Here we have [Frontend Doc](https://docs.google.com/document/d/1onVp-PqoN5dYfq5IydqCl1B4UAw5H0ibyDr7Zle9kME/edit?usp=gmail)
 
 ## BACKEND LINK
-Here we have [Backend doc](https://documenter.getpostman.com/view/17155688/Uzds4Uet)
+Here we have [Backend doc](https://documenter.getpostman.com/view/17155688/Uzds4Uet)<br/>
+Our data base Schema for just the user
+![](public/img/Screenshot%20(18).png)
